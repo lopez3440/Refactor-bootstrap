@@ -1,0 +1,22 @@
+{
+  "name": "refactor-bootstrap",
+  "version": "1.0.0",
+  "description": "Se agregaran estilos utilizando la libreria bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopez3440/Refactor-bootstrap.git"
+  },
+  "author": "Facundo Lopez Mora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopez3440/Refactor-bootstrap/issues"
+  },
+  "homepage": "https://github.com/lopez3440/Refactor-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
